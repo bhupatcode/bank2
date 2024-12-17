@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Banking3</title>
+	<title>Banking3chf</title>
 	<?php require 'assets/autoloader.php'; ?>
 	<?php require 'assets/function.php'; ?>
 	<?php
